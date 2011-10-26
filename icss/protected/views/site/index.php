@@ -1,0 +1,3 @@
+<?php $this->pageTitle=Yii::app()->name; ?>
+
+<h2><center>You are about to log on to a proprietary computer system where access is provided, by the owner of the computer system, only to authorised users. If you are not authorised to use this system, please refrain from doing so. All activities on this system are being monitored. Unauthorized access to this system may be subjected to legal action, and/or prosecution. Suspected access violations or breach of security policy should be reported to Information Technology (IT) Department.</center></h2>
